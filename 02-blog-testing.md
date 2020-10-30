@@ -1,12 +1,12 @@
 ---
-title: This is my first blog post, Test.
+title: Testing Testing
 description: This is my first blog post to test if my setup works.
 date: 2020-29-10
 tags:
   - another-tag
 layout: layouts/post.njk
 ---
-Here I will write my blog text telling about what I have learned, and add (maybe add in another step) some example code to show what I have learned.
+Does anything get displayed?
 
 ## Section Header
 
